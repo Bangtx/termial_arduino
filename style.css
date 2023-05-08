@@ -1,0 +1,19 @@
+/*@media only screen and (max-width: 600px) {*/
+/*    #carouselExampleCaptions {*/
+/*        height: 300px;*/
+/*    }*/
+/*}*/
+.content {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+@media only screen and (max-width: 900px) {
+    .content {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .banner {
+        height: 300px;
+    }
+}
