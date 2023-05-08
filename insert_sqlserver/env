@@ -1,0 +1,5 @@
+DRIVER=SQL Server Native Client 11.0
+SERVER=(local)\SQLEXPRESS08
+DATABASE=YDCHeater
+UID=sa
+PWD=Ydc@2022
